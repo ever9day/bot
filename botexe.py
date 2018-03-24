@@ -1,3 +1,4 @@
+#Это бот, который работает со списком учеников
 import telebot
 import Funksii
 
